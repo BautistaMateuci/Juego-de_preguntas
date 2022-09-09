@@ -31,17 +31,6 @@ respuestas1 = ['A','A','B','B','A','C','C',
                'A','B','C','C','B','A','A']
 print(respuestas1)
 
-# def prueba():
-#     respuestas = input('inserta aqui tu respuesta ')
-#     if respuestas1[1] == respuestas:
-#         print('Bien')
-#     else:
-#         print('incorrecto')
-        
-# prueba()
-
-nombre = 'pepe'
-
 def futbol():
     print(f'Bienvenido a las quizz de Futbol {nombre}, empezamos :)!')
     i = 0
